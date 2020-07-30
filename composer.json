@@ -33,7 +33,7 @@
     },
     "repositories": {
         "github": {
-            "type": "github",
+            "type": "vcs",
             "url": "https://github.com/msincere/pay.git"
         },
         "packagist": {
